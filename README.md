@@ -12,3 +12,5 @@
 
 **XOR problem**
 - Independent but XOR relation between variables. Example - (Y|X1=i,X) is different for each i. So Idea is to create module for each i-X1 and fit the QDA for each unique. 
+
+**Rank-14%**
